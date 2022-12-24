@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Shubham
 
-<!--
-**Shubham-679/Shubham-679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on a live project as a React developer at Ola
 
